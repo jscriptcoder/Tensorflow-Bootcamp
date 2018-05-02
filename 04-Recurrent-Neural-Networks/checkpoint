@@ -1,2 +1,2 @@
-model_checkpoint_path: "rnn_time_series_model__testing"
-all_model_checkpoint_paths: "rnn_time_series_model__testing"
+model_checkpoint_path: "rnn_milk_prod__exercise"
+all_model_checkpoint_paths: "rnn_milk_prod__exercise"
