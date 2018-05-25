@@ -1,2 +1,2 @@
-model_checkpoint_path: "cartpole_model.ckpt"
-all_model_checkpoint_paths: "cartpole_model.ckpt"
+model_checkpoint_path: "my-250-step-model"
+all_model_checkpoint_paths: "my-250-step-model"
