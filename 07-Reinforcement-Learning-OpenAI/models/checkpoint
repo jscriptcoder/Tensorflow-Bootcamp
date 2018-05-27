@@ -1,2 +1,2 @@
-model_checkpoint_path: "my-250-step-model"
-all_model_checkpoint_paths: "my-250-step-model"
+model_checkpoint_path: "my-850-step-model"
+all_model_checkpoint_paths: "my-850-step-model"
