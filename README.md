@@ -1,6 +1,6 @@
 # Tensorflow Bootcamp [[certificate](certificate.pdf)]
 
-## Complete Guide to TensorFlow for Deep Learning with Python! ##
+### Complete Guide to TensorFlow for Deep Learning with Python!
 
 This course will guide you through how to use Google's TensorFlow framework to create artificial neural networks for deep learning! This course aims to give you an easy to understand guide to the complexities of Google's TensorFlow framework in a way that is easy to understand. Other courses and tutorials have tended to stay away from pure tensorflow and instead use abstractions that give the user less control. Here we present a course that finally serves as a complete guide to using the TensorFlow framework as intended, while showing you the latest techniques available in deep learning!
 
@@ -26,12 +26,12 @@ TensorFlow is an open source software library for numerical computation using da
 
 It is used by major companies all over the world, including Airbnb, Ebay, Dropbox, Snapchat, Twitter, Uber, SAP, Qualcomm, IBM, Intel, and of course, Google!
 
-## What are the requirements? ##
+### What are the requirements?
 
 - Some knowledge of programming (preferably Python)
 - Some basic knowledge of math (mean, standard deviation, etc..)
 
-## What am I going to get from this course? ##
+### What am I going to get from this course?
 
 - Understand how Neural Networks Work
 - Build your own Neural Network from Scratch with Python
