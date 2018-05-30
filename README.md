@@ -1,7 +1,5 @@
 # Tensorflow Bootcamp [[certificate](certificate.pdf)]
 
-Link to course [here](https://www.udemy.com/complete-guide-to-tensorflow-for-deep-learning-with-python/)
-
 ## Complete Guide to TensorFlow for Deep Learning with Python! ##
 
 This course will guide you through how to use Google's TensorFlow framework to create artificial neural networks for deep learning! This course aims to give you an easy to understand guide to the complexities of Google's TensorFlow framework in a way that is easy to understand. Other courses and tutorials have tended to stay away from pure tensorflow and instead use abstractions that give the user less control. Here we present a course that finally serves as a complete guide to using the TensorFlow framework as intended, while showing you the latest techniques available in deep learning!
