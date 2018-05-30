@@ -8,7 +8,7 @@ This course will guide you through how to use Google's TensorFlow framework to c
 
 This course is designed to balance theory and practical implementation, with complete jupyter notebook guides of code and easy to reference slides and notes. We also have plenty of exercises to test your new skills along the way!
 
-This course covers a variety of topics, including
+This course covers a variety of topics, including:
 
 - Neural Network Basics
 - TensorFlow Basics
