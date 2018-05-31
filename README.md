@@ -62,8 +62,36 @@ It is used by major companies all over the world, including Airbnb, Ebay, Dropbo
   - [x] Saving and Restoring Models
 
 - Convolutional Neural Networks
+  - [x] [Introduction to Convolutional Neural Network Section](03-Convolutional-Neural-Networks/ConvolutionalNeuralNetworks.pdf)
+  - [x] Review of Neural Networks
+  - [x] New Theory Topics
+  - [x] Quick note on MNIST lecture
+  - [x] MNIST Data Overview
+  - [x] MNIST Basic Approach Part One
+  - [x] MNIST Basic Approach Part Two
+  - [x] CNN Theory Part One
+  - [x] CNN Theory Part Two
+  - [x] CNN MNIST Code Along - Part One
+  - [x] CNN MNIST Code Along - Part Two
+  - [x] CNN Project Exercise
 
 - Recurrent Neural Networks
+  - [x] [Introduction to RNN Section](04-Recurrent-Neural-Networks/RecurrentNeuralNetworks.pdf)
+  - [x] RNN Theory
+  - [x] Manual Creation of RNN
+  - [x] Vanishing Gradients
+  - [x] LSTM and GRU Theory
+  - [x] Introduction to RNN with TensorFlow API
+  - [x] RNN with TensorFlow - Part One
+  - [x] RNN with TensorFlow - Part Two
+  - [x] Quick Note on RNN Plotting Part 3
+  - [x] RNN with TensorFlow - Part Three
+  - [x] Time Series Exercise Overview
+  - [x] Time Series Exercise Solution
+  - [x] Quick Note on Word2Vec
+  - [x] Word2Vec Theory
+  - [x] Word2Vec Code Along - Part One
+  - [x] Word2Vec Part Two
 
 - Miscellaneous Topics
 
