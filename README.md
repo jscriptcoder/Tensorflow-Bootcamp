@@ -6,38 +6,38 @@ This course will guide you through how to use Google's TensorFlow framework to c
 
 This course is designed to balance theory and practical implementation, with complete jupyter notebook guides of code and easy to reference slides and notes. We also have plenty of exercises to test your new skills along the way!
 
-This course covers a variety of topics, including:
-
-- Neural Network Basics
-- TensorFlow Basics
-- Artificial Neural Networks
-- Densely Connected Networks
-- Convolutional Neural Networks
-- Recurrent Neural Networks
-- AutoEncoders
-- Reinforcement Learning
-- OpenAI Gym
-
-and much more!
-
 **There are many Deep Learning Frameworks out there, so why use TensorFlow?**
 
 TensorFlow is an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) communicated between them. The flexible architecture allows you to deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device with a single API. TensorFlow was originally developed by researchers and engineers working on the Google Brain Team within Google's Machine Intelligence research organization for the purposes of conducting machine learning and deep neural networks research, but the system is general enough to be applicable in a wide variety of other domains as well.
 
 It is used by major companies all over the world, including Airbnb, Ebay, Dropbox, Snapchat, Twitter, Uber, SAP, Qualcomm, IBM, Intel, and of course, Google!
 
-### What are the requirements?
+## Course Content
+1. Introduction
+- [x] Introduction
+- [x] Course Overview
+- [x] FAQ - Frequently Asked Questions
 
-- Some knowledge of programming (preferably Python)
-- Some basic knowledge of math (mean, standard deviation, etc..)
+2. Installation and Setup
+- [x] Quick Note for MacOS and Linux Users
+- [x] Installing TensorFlow Environment
 
-### What am I going to get from this course?
+3. What is Machine Learning?
+- [x] Machine Learning Overview
 
-- Understand how Neural Networks Work
-- Build your own Neural Network from Scratch with Python
-- Use TensorFlow for Classification and Regression Tasks
-- Use TensorFlow for Image Classification with Convolutional Neural Networks
-- Use TensorFlow for Time Series Analysis with Recurrent Neural Networks
-- Use TensorFlow for solving Unsupervised Learning Problems with AutoEncoders
-- Learn how to conduct Reinforcement Learning with OpenAI Gym
-- Create Generative Adversarial Networks with TensorFlow
+4. Crash Course Overview
+- [x] Crash Course Section Introduction
+- [x] NumPy Crash Course
+- [x] Pandas Crash Course
+- [x] Data Visualization Crash Course
+- [x] SciKit Learn Preprocessing Overview
+- [x] Crash Course Review Exercise
+
+5. Introduction to Neural Networks
+6. TensorFlow Basics
+7. Convolutional Neural Networks
+8. Recurrent Neural Networks
+9. Miscellaneous Topics
+10. AutoEncoders
+11. Reinforcement Learning with OpenAI Gym
+12. GAN - Generative Adversarial Networks
