@@ -13,10 +13,10 @@ TensorFlow is an open source software library for numerical computation using da
 It is used by major companies all over the world, including Airbnb, Ebay, Dropbox, Snapchat, Twitter, Uber, SAP, Qualcomm, IBM, Intel, and of course, Google!
 
 ## Course Content
-1. Introduction
-- [x] Introduction
-- [x] Course Overview
-- [x] FAQ - Frequently Asked Questions
+- Introduction
+  - [x] Introduction
+  - [x] Course Overview
+  - [x] FAQ - Frequently Asked Questions
 
 2. Installation and Setup
 - [x] Quick Note for MacOS and Linux Users
