@@ -31,7 +31,7 @@ It is used by major companies all over the world, including Airbnb, Ebay, Dropbo
   - [x] Pandas Crash Course
   - [x] Data Visualization Crash Course
   - [x] SciKit Learn Preprocessing Overview
-  - [x] Crash Course Review Exercise
+  - [x] [Crash Course Review Exercise](00-Crash-Course-Basics/05-Crash-Course-Review-Exercises.ipynb)
 
 - [Introduction to Neural Networks](01-Neural-Network-Basics/IntroNeuralNetworks.pdf)
   - [x] Introduction to Neural Networks
@@ -40,26 +40,26 @@ It is used by major companies all over the world, including Airbnb, Ebay, Dropbo
   - [x] Cost Functions
   - [x] Gradient Descent Backpropagation
   - [x] TensorFlow Playground
-  - [x] Manual Creation of Neural Network - Part One
-  - [x] Manual Creation of Neural Network - Part Two - Operations
-  - [x] Manual Creation of Neural Network - Part Three - Placeholders and Variables
-  - [x] Manual Creation of Neural Network - Part Four - Session
-  - [x] Manual Neural Network Classification Task
+  - [x] [Manual Creation of Neural Network - Part One](01-Neural-Network-Basics/Manual%20Neural%20Network.ipynb)
+  - [x] [Manual Creation of Neural Network - Part Two - Operations](01-Neural-Network-Basics/Manual%20Neural%20Network.ipynb)
+  - [x] [Manual Creation of Neural Network - Part Three - Placeholders and Variables](01-Neural-Network-Basics/Manual%20Neural%20Network.ipynb)
+  - [x] [Manual Creation of Neural Network - Part Four - Session](01-Neural-Network-Basics/Manual%20Neural%20Network.ipynb)
+  - [x] [Manual Neural Network Classification Task](01-Neural-Network-Basics/Manual%20Neural%20Network.ipynb)
 
 - [TensorFlow Basics](02-TensorFlow-Basics/TensorFlowBasics.pdf)
   - [x] Introduction to TensorFlow
-  - [x] TensorFlow Basic Syntax
-  - [x] TensorFlow Graphs
-  - [x] Variables and Placeholders
-  - [x] TensorFlow - A Neural Network - Part One
-  - [x] TensorFlow - A Neural Network - Part Two
-  - [x] TensorFlow Regression Example - Part One
-  - [x] TensorFlow Regression Example _ Part Two
-  - [x] TensorFlow Classification Example - Part One
-  - [x] TensorFlow Classification Example - Part Two
-  - [x] TF Regression Exercise
-  - [x] TF Classification Exercise
-  - [x] Saving and Restoring Models
+  - [x] [TensorFlow Basic Syntax](02-TensorFlow-Basics/00-TensorFlow-Basic-Syntax.ipynb)
+  - [x] T[ensorFlow Graphs](02-TensorFlow-Basics/01-TensorFlow-Graphs.ipynb)
+  - [x] [Variables and Placeholders](02-TensorFlow-Basics/02-Variables-and-Placeholders.ipynb)
+  - [x] [TensorFlow - A Neural Network - Part One](02-TensorFlow-Basics/03-TF-Neural-Network.ipynb)
+  - [x] [TensorFlow - A Neural Network - Part Two](02-TensorFlow-Basics/03-TF-Neural-Network.ipynb)
+  - [x] [TensorFlow Regression Example - Part One](02-TensorFlow-Basics/04-TensorFlow-Regression-Example.ipynb)
+  - [x] [TensorFlow Regression Example _ Part Two](02-TensorFlow-Basics/04-TensorFlow-Regression-Example.ipynb)
+  - [x] [TensorFlow Classification Example - Part One](02-TensorFlow-Basics/05-TensorFlow-Classification-Example.ipynb)
+  - [x] [TensorFlow Classification Example - Part Two](02-TensorFlow-Basics/05-TensorFlow-Classification-Example.ipynb)
+  - [x] [TF Regression Exercise](02-TensorFlow-Basics/06-Regression-Exercise.ipynb)
+  - [x] [TF Classification Exercise](02-TensorFlow-Basics/08-Classification-Exercise.ipynb)
+  - [x] [Saving and Restoring Models](02-TensorFlow-Basics/10-Saving%20-and-Loading-Models.ipynb)
 
 - [Convolutional Neural Networks](03-Convolutional-Neural-Networks/ConvolutionalNeuralNetworks.pdf)
   - [x] Introduction to Convolutional Neural Network Section
