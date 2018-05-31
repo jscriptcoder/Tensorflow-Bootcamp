@@ -23,7 +23,7 @@ It is used by major companies all over the world, including Airbnb, Ebay, Dropbo
   - [x] Installing TensorFlow Environment
 
 - What is Machine Learning?
-  - [x] Machine Learning Overview
+  - [x] [Machine Learning Overview](IntroMachineLearning.pdf)
 
 - Crash Course Overview
   - [x] Crash Course Section Introduction
@@ -34,9 +34,32 @@ It is used by major companies all over the world, including Airbnb, Ebay, Dropbo
   - [x] Crash Course Review Exercise
 
 - Introduction to Neural Networks
-  - [x] Introduction to Neural Networks
+  - [x] [Introduction to Neural Networks](01-Neural-Network-Basics/IntroNeuralNetworks.pdf)
+  - [x] Introduction to Perceptron
+  - [x] Neural Network Activation Functions
+  - [x] Cost Functions
+  - [x] Gradient Descent Backpropagation
+  - [x] TensorFlow Playground
+  - [x] Manual Creation of Neural Network - Part One
+  - [x] Manual Creation of Neural Network - Part Two - Operations
+  - [x] Manual Creation of Neural Network - Part Three - Placeholders and Variables
+  - [x] Manual Creation of Neural Network - Part Four - Session
+  - [x] Manual Neural Network Classification Task
 
 - TensorFlow Basics
+  - [x] [Introduction to TensorFlow](02-TensorFlow-Basics/TensorFlowBasics.pdf)
+  - [x] TensorFlow Basic Syntax
+  - [x] TensorFlow Graphs
+  - [x] Variables and Placeholders
+  - [x] TensorFlow - A Neural Network - Part One
+  - [x] TensorFlow - A Neural Network - Part Two
+  - [x] TensorFlow Regression Example - Part One
+  - [x] TensorFlow Regression Example _ Part Two
+  - [x] TensorFlow Classification Example - Part One
+  - [x] TensorFlow Classification Example - Part Two
+  - [x] TF Regression Exercise
+  - [x] TF Classification Exercise
+  - [x] Saving and Restoring Models
 
 - Convolutional Neural Networks
 
