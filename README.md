@@ -106,18 +106,18 @@ It is used by major companies all over the world, including Airbnb, Ebay, Dropbo
   - [x] [Linear Autoencoder PCA Exercise](05-Autoencoders/01-Linear-Autoencoder-for-PCA-Exercise.ipynb)
   - [x] [Stacked Autoencoder](05-Autoencoders/03-Stacked-Autoencoder-Example.ipynb)
 
-- [Reinforcement Learning with OpenAI Gym](07-Reinforcement-Learning-OpenAI/ReinforcementLearning.pdf)
-  - [x] Introduction to Reinforcement Learning with OpenAI Gym
+- Reinforcement Learning with OpenAI Gym
+  - [x] [Introduction to Reinforcement Learning with OpenAI Gym](07-Reinforcement-Learning-OpenAI/ReinforcementLearning.pdf)
   - [x] Extra Resources for Reinforcement Learning
-  - [x] Introduction to OpenAI Gym
-  - [x] OpenAI Gym Steup
-  - [x] OpenAI Gym Env Basics
-  - [x] OpenAI Gym Observations
-  - [x] OpenAI Gym Actions
-  - [x] Simple Neural Network Game
+  - [x] [Introduction to OpenAI Gym](07-Reinforcement-Learning-OpenAI/01-Introduction-to-OpenAI.py)
+  - [x] [OpenAI Gym Steup](07-Reinforcement-Learning-OpenAI/00-testgym.py)
+  - [x] [OpenAI Gym Env Basics](07-Reinforcement-Learning-OpenAI/02-Gym-Env-Basics.py)
+  - [x] [OpenAI Gym Observations](07-Reinforcement-Learning-OpenAI/02-Gym-Env-Basics.py)
+  - [x] [OpenAI Gym Actions](07-Reinforcement-Learning-OpenAI/03-Gym-Actions.py)
+  - [x] [Simple Neural Network Game](07-Reinforcement-Learning-OpenAI/04-Basic-Gym-NN.py)
   - [x] Policy Gradient Theory
-  - [x] Policy Gradient Code Along Part One
-  - [x] Policy Gradient Code Along Part Two
+  - [x] [Policy Gradient Code Along Part One](07-Reinforcement-Learning-OpenAI/05-Policy-Gradient-Gym-NN.py)
+  - [x] [Policy Gradient Code Along Part Two](07-Reinforcement-Learning-OpenAI/05-Policy-Gradient-Gym-NN.py)
 
 - GAN - Generative Adversarial Networks
   - [x] Introduction to GANs
