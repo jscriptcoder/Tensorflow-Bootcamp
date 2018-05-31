@@ -22,8 +22,8 @@ It is used by major companies all over the world, including Airbnb, Ebay, Dropbo
   - [x] Quick Note for MacOS and Linux Users
   - [x] Installing TensorFlow Environment
 
-- What is Machine Learning?
-  - [x] [Machine Learning Overview](IntroMachineLearning.pdf)
+- [What is Machine Learning?](IntroMachineLearning.pdf)
+  - [x] Machine Learning Overview
 
 - Crash Course Overview
   - [x] Crash Course Section Introduction
@@ -33,8 +33,8 @@ It is used by major companies all over the world, including Airbnb, Ebay, Dropbo
   - [x] SciKit Learn Preprocessing Overview
   - [x] Crash Course Review Exercise
 
-- Introduction to Neural Networks
-  - [x] [Introduction to Neural Networks](01-Neural-Network-Basics/IntroNeuralNetworks.pdf)
+- [Introduction to Neural Networks](01-Neural-Network-Basics/IntroNeuralNetworks.pdf)
+  - [x] Introduction to Neural Networks
   - [x] Introduction to Perceptron
   - [x] Neural Network Activation Functions
   - [x] Cost Functions
@@ -46,8 +46,8 @@ It is used by major companies all over the world, including Airbnb, Ebay, Dropbo
   - [x] Manual Creation of Neural Network - Part Four - Session
   - [x] Manual Neural Network Classification Task
 
-- TensorFlow Basics
-  - [x] [Introduction to TensorFlow](02-TensorFlow-Basics/TensorFlowBasics.pdf)
+- [TensorFlow Basics](02-TensorFlow-Basics/TensorFlowBasics.pdf)
+  - [x] Introduction to TensorFlow
   - [x] TensorFlow Basic Syntax
   - [x] TensorFlow Graphs
   - [x] Variables and Placeholders
@@ -61,8 +61,8 @@ It is used by major companies all over the world, including Airbnb, Ebay, Dropbo
   - [x] TF Classification Exercise
   - [x] Saving and Restoring Models
 
-- Convolutional Neural Networks
-  - [x] [Introduction to Convolutional Neural Network Section](03-Convolutional-Neural-Networks/ConvolutionalNeuralNetworks.pdf)
+- [Convolutional Neural Networks](03-Convolutional-Neural-Networks/ConvolutionalNeuralNetworks.pdf)
+  - [x] Introduction to Convolutional Neural Network Section
   - [x] Review of Neural Networks
   - [x] New Theory Topics
   - [x] Quick note on MNIST lecture
@@ -75,8 +75,8 @@ It is used by major companies all over the world, including Airbnb, Ebay, Dropbo
   - [x] CNN MNIST Code Along - Part Two
   - [x] CNN Project Exercise
 
-- Recurrent Neural Networks
-  - [x] [Introduction to RNN Section](04-Recurrent-Neural-Networks/RecurrentNeuralNetworks.pdf)
+- [Recurrent Neural Networks](04-Recurrent-Neural-Networks/RecurrentNeuralNetworks.pdf)
+  - [x] Introduction to RNN Section
   - [x] RNN Theory
   - [x] Manual Creation of RNN
   - [x] Vanishing Gradients
@@ -94,8 +94,19 @@ It is used by major companies all over the world, including Airbnb, Ebay, Dropbo
   - [x] Word2Vec Part Two
 
 - Miscellaneous Topics
+  - [x] Intro to Miscellaneous Topics
+  - [x] Deep Nets with Tensorflow Abstractions API - Part One
+  - [x] Deep Nets with Tensorflow Abstractions API - Estimator API
+  - [x] Deep Nets with Tensorflow Abstractions API - Keras
+  - [x] Deep Nets with Tensorflow Abstractions API - Layers
+  - [x] Tensorboard
 
-- AutoEncoders
+- [AutoEncoders](05-Autoencoders/Autoencoders.pdf)
+  - [x] Autoencoder Basics
+  - [x] Dimensionality Reduction with Linear Autoencoder
+  - [x] Linear Autoencoder PCA Exercise Overview
+  - [x] Linear Autoencoder PCA Exercise Solutions
+  - [x] Stacked Autoencoder
 
 - Reinforcement Learning with OpenAI Gym
 
