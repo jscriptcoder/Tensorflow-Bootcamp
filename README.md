@@ -75,23 +75,22 @@ It is used by major companies all over the world, including Airbnb, Ebay, Dropbo
   - [x] [CNN MNIST Code Along - Part Two](03-Convolutional-Neural-Networks/01-MNIST-with-CNN.ipynb)
   - [x] [CNN Project Exercise](03-Convolutional-Neural-Networks/02-CNN-Project-Exercise.ipynb)
 
-- [Recurrent Neural Networks](04-Recurrent-Neural-Networks/RecurrentNeuralNetworks.pdf)
-  - [x] Introduction to RNN Section
+- Recurrent Neural Networks
+  - [x] [Introduction to RNN Section](04-Recurrent-Neural-Networks/RecurrentNeuralNetworks.pdf)
   - [x] RNN Theory
-  - [x] Manual Creation of RNN
+  - [x] [Manual Creation of RNN](04-Recurrent-Neural-Networks/00-Basic-Manual-RNN.ipynb)
   - [x] Vanishing Gradients
   - [x] LSTM and GRU Theory
   - [x] Introduction to RNN with TensorFlow API
-  - [x] RNN with TensorFlow - Part One
-  - [x] RNN with TensorFlow - Part Two
+  - [x] [RNN with TensorFlow - Part One](04-Recurrent-Neural-Networks/01-RNN-with-TF-API.ipynb)
+  - [x] [RNN with TensorFlow - Part Two](04-Recurrent-Neural-Networks/01-RNN-with-TF-API.ipynb)
   - [x] Quick Note on RNN Plotting Part 3
-  - [x] RNN with TensorFlow - Part Three
-  - [x] Time Series Exercise Overview
-  - [x] Time Series Exercise Solution
+  - [x] [RNN with TensorFlow - Part Three](04-Recurrent-Neural-Networks/01-RNN-with-TF-API.ipynb)
+  - [x] [Time Series Exercise](04-Recurrent-Neural-Networks/02-Time-Series-Exercise.ipynb)
   - [x] Quick Note on Word2Vec
   - [x] Word2Vec Theory
-  - [x] Word2Vec Code Along - Part One
-  - [x] Word2Vec Part Two
+  - [x] [Word2Vec Code Along - Part One](04-Word2Vec.ipynb)
+  - [x] [Word2Vec Code Along - Part Two](04-Word2Vec.ipynb)
 
 - Miscellaneous Topics
   - [x] Intro to Miscellaneous Topics
