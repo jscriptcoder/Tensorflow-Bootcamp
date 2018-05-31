@@ -61,19 +61,19 @@ It is used by major companies all over the world, including Airbnb, Ebay, Dropbo
   - [x] [TF Classification Exercise](02-TensorFlow-Basics/08-Classification-Exercise.ipynb)
   - [x] [Saving and Restoring Models](02-TensorFlow-Basics/10-Saving%20-and-Loading-Models.ipynb)
 
-- [Convolutional Neural Networks](03-Convolutional-Neural-Networks/ConvolutionalNeuralNetworks.pdf)
-  - [x] Introduction to Convolutional Neural Network Section
+- Convolutional Neural Networks
+  - [x] [Introduction to Convolutional Neural Network Section](03-Convolutional-Neural-Networks/ConvolutionalNeuralNetworks.pdf)
   - [x] Review of Neural Networks
   - [x] New Theory Topics
   - [x] Quick note on MNIST lecture
   - [x] MNIST Data Overview
-  - [x] MNIST Basic Approach Part One
-  - [x] MNIST Basic Approach Part Two
+  - [x] [MNIST Basic Approach Part One](03-Convolutional-Neural-Networks/00-MNIST-Data-Basic-Approach.ipynb)
+  - [x] [MNIST Basic Approach Part Two](03-Convolutional-Neural-Networks/00-MNIST-Data-Basic-Approach.ipynb)
   - [x] CNN Theory Part One
   - [x] CNN Theory Part Two
-  - [x] CNN MNIST Code Along - Part One
-  - [x] CNN MNIST Code Along - Part Two
-  - [x] CNN Project Exercise
+  - [x] [CNN MNIST Code Along - Part One](03-Convolutional-Neural-Networks/01-MNIST-with-CNN.ipynb)
+  - [x] [CNN MNIST Code Along - Part Two](03-Convolutional-Neural-Networks/01-MNIST-with-CNN.ipynb)
+  - [x] [CNN Project Exercise](03-Convolutional-Neural-Networks/02-CNN-Project-Exercise.ipynb)
 
 - [Recurrent Neural Networks](04-Recurrent-Neural-Networks/RecurrentNeuralNetworks.pdf)
   - [x] Introduction to RNN Section
