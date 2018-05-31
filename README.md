@@ -27,10 +27,10 @@ It is used by major companies all over the world, including Airbnb, Ebay, Dropbo
 
 - Crash Course Overview
   - [x] Crash Course Section Introduction
-  - [x] NumPy Crash Course
-  - [x] Pandas Crash Course
-  - [x] Data Visualization Crash Course
-  - [x] SciKit Learn Preprocessing Overview
+  - [x] [NumPy Crash Course](00-Crash-Course-Basics/00-NumPy-Crash-Course-Overview.ipynb)
+  - [x] [Pandas Crash Course](00-Crash-Course-Basics/01-Pandas-Crash-Course.ipynb)
+  - [x] [Data Visualization Crash Course](00-Crash-Course-Basics/02-Data-Viz-Crash-Course.ipynb)
+  - [x] [SciKit Learn Preprocessing Overview](00-Crash-Course-Basics/03-SciKit-Learn-Overview.ipynb)
   - [x] [Crash Course Review Exercise](00-Crash-Course-Basics/05-Crash-Course-Review-Exercises.ipynb)
 
 - [Introduction to Neural Networks](01-Neural-Network-Basics/IntroNeuralNetworks.pdf)
