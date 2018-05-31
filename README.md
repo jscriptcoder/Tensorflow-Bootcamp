@@ -94,11 +94,11 @@ It is used by major companies all over the world, including Airbnb, Ebay, Dropbo
 
 - Miscellaneous Topics
   - [x] Intro to Miscellaneous Topics
-  - [x] Deep Nets with Tensorflow Abstractions API - Part One
-  - [x] Deep Nets with Tensorflow Abstractions API - Estimator API
-  - [x] Deep Nets with Tensorflow Abstractions API - Keras
-  - [x] Deep Nets with Tensorflow Abstractions API - Layers
-  - [x] Tensorboard
+  - [x] [Deep Nets with Tensorflow Abstractions API - Part One](00-Deep-Nets-with-TF-Abstractions.ipynb)
+  - [x] [Deep Nets with Tensorflow Abstractions API - Estimator API](00-Deep-Nets-with-TF-Abstractions.ipynb)
+  - [x] [Deep Nets with Tensorflow Abstractions API - Keras](00-Deep-Nets-with-TF-Abstractions.ipynb)
+  - [x] [Deep Nets with Tensorflow Abstractions API - Layers](00-Deep-Nets-with-TF-Abstractions.ipynb)
+  - [x] [Tensorboard](Miscellaneous-Topics/01-TensorBoard.ipynb)
 
 - AutoEncoders
   - [x] [Autoencoder Basics](05-Autoencoders/Autoencoders.pdf)
