@@ -108,6 +108,21 @@ It is used by major companies all over the world, including Airbnb, Ebay, Dropbo
   - [x] Linear Autoencoder PCA Exercise Solutions
   - [x] Stacked Autoencoder
 
-- Reinforcement Learning with OpenAI Gym
+- [Reinforcement Learning with OpenAI Gym](07-Reinforcement-Learning-OpenAI/ReinforcementLearning.pdf)
+  - [x] Introduction to Reinforcement Learning with OpenAI Gym
+  - [x] Extra Resources for Reinforcement Learning
+  - [x] Introduction to OpenAI Gym
+  - [x] OpenAI Gym Steup
+  - [x] OpenAI Gym Env Basics
+  - [x] OpenAI Gym Observations
+  - [x] OpenAI Gym Actions
+  - [x] Simple Neural Network Game
+  - [x] Policy Gradient Theory
+  - [x] Policy Gradient Code Along Part One
+  - [x] Policy Gradient Code Along Part Two
 
 - GAN - Generative Adversarial Networks
+  - [x] Introduction to GANs
+  - [x] GAN Code Along - Part One
+  - [x] GAN Code Along - Part Two
+  - [x] GAN Code Along - Part Three
