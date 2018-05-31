@@ -101,12 +101,11 @@ It is used by major companies all over the world, including Airbnb, Ebay, Dropbo
   - [x] Deep Nets with Tensorflow Abstractions API - Layers
   - [x] Tensorboard
 
-- [AutoEncoders](05-Autoencoders/Autoencoders.pdf)
-  - [x] Autoencoder Basics
-  - [x] Dimensionality Reduction with Linear Autoencoder
-  - [x] Linear Autoencoder PCA Exercise Overview
-  - [x] Linear Autoencoder PCA Exercise Solutions
-  - [x] Stacked Autoencoder
+- AutoEncoders
+  - [x] [Autoencoder Basics](05-Autoencoders/Autoencoders.pdf)
+  - [x] [Dimensionality Reduction with Linear Autoencoder](05-Autoencoders/00-Simple-Autoencoder-for-PCA.ipynb)
+  - [x] [Linear Autoencoder PCA Exercise](05-Autoencoders/01-Linear-Autoencoder-for-PCA-Exercise.ipynb)
+  - [x] [Stacked Autoencoder](05-Autoencoders/03-Stacked-Autoencoder-Example.ipynb)
 
 - [Reinforcement Learning with OpenAI Gym](07-Reinforcement-Learning-OpenAI/ReinforcementLearning.pdf)
   - [x] Introduction to Reinforcement Learning with OpenAI Gym
