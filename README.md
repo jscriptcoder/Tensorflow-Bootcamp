@@ -22,8 +22,8 @@ It is used by major companies all over the world, including Airbnb, Ebay, Dropbo
   - [x] Quick Note for MacOS and Linux Users
   - [x] Installing TensorFlow Environment
 
-- [What is Machine Learning?](IntroMachineLearning.pdf)
-  - [x] Machine Learning Overview
+- What is Machine Learning?
+  - [x] [Machine Learning Overview]((IntroMachineLearning.pdf))
 
 - Crash Course Overview
   - [x] Crash Course Section Introduction
@@ -33,8 +33,8 @@ It is used by major companies all over the world, including Airbnb, Ebay, Dropbo
   - [x] [SciKit Learn Preprocessing Overview](00-Crash-Course-Basics/03-SciKit-Learn-Overview.ipynb)
   - [x] [Crash Course Review Exercise](00-Crash-Course-Basics/05-Crash-Course-Review-Exercises.ipynb)
 
-- [Introduction to Neural Networks](01-Neural-Network-Basics/IntroNeuralNetworks.pdf)
-  - [x] Introduction to Neural Networks
+- Introduction to Neural Networks
+  - [x] [Introduction to Neural Networks](01-Neural-Network-Basics/IntroNeuralNetworks.pdf)
   - [x] Introduction to Perceptron
   - [x] Neural Network Activation Functions
   - [x] Cost Functions
@@ -46,8 +46,8 @@ It is used by major companies all over the world, including Airbnb, Ebay, Dropbo
   - [x] [Manual Creation of Neural Network - Part Four - Session](01-Neural-Network-Basics/Manual%20Neural%20Network.ipynb)
   - [x] [Manual Neural Network Classification Task](01-Neural-Network-Basics/Manual%20Neural%20Network.ipynb)
 
-- [TensorFlow Basics](02-TensorFlow-Basics/TensorFlowBasics.pdf)
-  - [x] Introduction to TensorFlow
+- TensorFlow Basics
+  - [x] [Introduction to TensorFlow](02-TensorFlow-Basics/TensorFlowBasics.pdf)
   - [x] [TensorFlow Basic Syntax](02-TensorFlow-Basics/00-TensorFlow-Basic-Syntax.ipynb)
   - [x] T[ensorFlow Graphs](02-TensorFlow-Basics/01-TensorFlow-Graphs.ipynb)
   - [x] [Variables and Placeholders](02-TensorFlow-Basics/02-Variables-and-Placeholders.ipynb)
