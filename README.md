@@ -123,6 +123,6 @@ It is used by major companies all over the world, including Airbnb, Ebay, Dropbo
 
 - GAN - Generative Adversarial Networks
   - [x] Introduction to GANs
-  - [x] GAN Code Along - Part One
-  - [x] GAN Code Along - Part Two
-  - [x] GAN Code Along - Part Three
+  - [x] [GAN Code Along - Part One](06-Generative-Adversarial-Networks/00-GAN-Example.ipynb)
+  - [x] [GAN Code Along - Part Two](06-Generative-Adversarial-Networks/00-GAN-Example.ipynb)
+  - [x] [GAN Code Along - Part Three](06-Generative-Adversarial-Networks/00-GAN-Example.ipynb)
