@@ -18,26 +18,34 @@ It is used by major companies all over the world, including Airbnb, Ebay, Dropbo
   - [x] Course Overview
   - [x] FAQ - Frequently Asked Questions
 
-2. Installation and Setup
-- [x] Quick Note for MacOS and Linux Users
-- [x] Installing TensorFlow Environment
+- Installation and Setup
+  - [x] Quick Note for MacOS and Linux Users
+  - [x] Installing TensorFlow Environment
 
-3. What is Machine Learning?
-- [x] Machine Learning Overview
+- What is Machine Learning?
+  - [x] Machine Learning Overview
 
-4. Crash Course Overview
-- [x] Crash Course Section Introduction
-- [x] NumPy Crash Course
-- [x] Pandas Crash Course
-- [x] Data Visualization Crash Course
-- [x] SciKit Learn Preprocessing Overview
-- [x] Crash Course Review Exercise
+- Crash Course Overview
+  - [x] Crash Course Section Introduction
+  - [x] NumPy Crash Course
+  - [x] Pandas Crash Course
+  - [x] Data Visualization Crash Course
+  - [x] SciKit Learn Preprocessing Overview
+  - [x] Crash Course Review Exercise
 
-5. Introduction to Neural Networks
-6. TensorFlow Basics
-7. Convolutional Neural Networks
-8. Recurrent Neural Networks
-9. Miscellaneous Topics
-10. AutoEncoders
-11. Reinforcement Learning with OpenAI Gym
-12. GAN - Generative Adversarial Networks
+- Introduction to Neural Networks
+  - [x] Introduction to Neural Networks
+
+- TensorFlow Basics
+
+- Convolutional Neural Networks
+
+- Recurrent Neural Networks
+
+- Miscellaneous Topics
+
+- AutoEncoders
+
+- Reinforcement Learning with OpenAI Gym
+
+- GAN - Generative Adversarial Networks
