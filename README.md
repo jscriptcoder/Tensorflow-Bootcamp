@@ -110,7 +110,7 @@ It is used by major companies all over the world, including Airbnb, Ebay, Dropbo
   - [x] [Introduction to Reinforcement Learning with OpenAI Gym](07-Reinforcement-Learning-OpenAI/ReinforcementLearning.pdf)
   - [x] Extra Resources for Reinforcement Learning
   - [x] [Introduction to OpenAI Gym](07-Reinforcement-Learning-OpenAI/01-Introduction-to-OpenAI.py)
-  - [x] [OpenAI Gym Steup](07-Reinforcement-Learning-OpenAI/00-testgym.py)
+  - [x] [OpenAI Gym Setup](07-Reinforcement-Learning-OpenAI/00-testgym.py)
   - [x] [OpenAI Gym Env Basics](07-Reinforcement-Learning-OpenAI/02-Gym-Env-Basics.py)
   - [x] [OpenAI Gym Observations](07-Reinforcement-Learning-OpenAI/02-Gym-Env-Basics.py)
   - [x] [OpenAI Gym Actions](07-Reinforcement-Learning-OpenAI/03-Gym-Actions.py)
