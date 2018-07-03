@@ -12,7 +12,19 @@ TensorFlow is an open source software library for numerical computation using da
 
 It is used by major companies all over the world, including Airbnb, Ebay, Dropbox, Snapchat, Twitter, Uber, SAP, Qualcomm, IBM, Intel, and of course, Google!
 
-## Course Content
+## What am I going to get from this course?
+
+- Understand how Neural Networks Work
+- Build your own Neural Network from Scratch with Python
+- Use TensorFlow for Classification and Regression Tasks
+- Use TensorFlow for Image Classification with Convolutional Neural Networks
+- Use TensorFlow for Time Series Analysis with Recurrent Neural Networks
+- Use TensorFlow for solving Unsupervised Learning Problems with AutoEncoders
+- Learn how to conduct Reinforcement Learning with OpenAI Gym
+- Create Generative Adversarial Networks with TensorFlow
+- Become a Deep Learning Guru!
+
+# Course Content
 - Introduction
   - [x] Introduction
   - [x] Course Overview
