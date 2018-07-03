@@ -89,8 +89,8 @@ It is used by major companies all over the world, including Airbnb, Ebay, Dropbo
   - [x] [Time Series Exercise](04-Recurrent-Neural-Networks/02-Time-Series-Exercise.ipynb)
   - [x] Quick Note on Word2Vec
   - [x] Word2Vec Theory
-  - [x] [Word2Vec Code Along - Part One](04-Word2Vec.ipynb)
-  - [x] [Word2Vec Code Along - Part Two](04-Word2Vec.ipynb)
+  - [x] [Word2Vec Code Along - Part One](04-Recurrent-Neural-Networks/04-Word2Vec.ipynb)
+  - [x] [Word2Vec Code Along - Part Two](04-Recurrent-Neural-Networks/04-Word2Vec.ipynb)
 
 - Miscellaneous Topics
   - [x] Intro to Miscellaneous Topics
